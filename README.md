@@ -15,7 +15,7 @@ This is a small modification of the Firefox UI. I could not find a perfect one f
 
 ## Acknowledgements
 
-[FirefoxW10ContextMenus](https://github.com/M1ch431/FirefoxW10ContextMenus)
+[FirefoxW10ContextMenus](https://github.com/M1ch431/FirefoxW10ContextMenus)  
 [Matte Black (Violet)](https://addons.mozilla.org/en-US/firefox/addon/matte-black-violet/)
 
 ## Notes
